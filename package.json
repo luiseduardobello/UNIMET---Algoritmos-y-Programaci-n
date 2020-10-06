@@ -2,7 +2,7 @@
     "name": "unimet-algorimos-y-programacion",
     "displayName": "UNIMET - Algoritmos y Programación",
     "description": "Paquete de extensiones para la materia Algoritmos y Programación de la UNIMET",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.49.0"
     },
@@ -23,5 +23,8 @@
         "esbenp.prettier-vscode",
         "exodiusstudios.comment-anchors",
         "streetsidesoftware.code-spell-checker-spanish"
-    ]
+    ],
+    "publisher": "unimet",
+    "repository": "https://github.com/luiseduardobello/UNIMET-Extension-Pack",
+    "icon": "logo.jpg"
 }
