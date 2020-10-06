@@ -1,0 +1,27 @@
+{
+    "name": "unimet-algorimos-y-programacion",
+    "displayName": "UNIMET - Algoritmos y Programación",
+    "description": "Paquete de extensiones para la materia Algoritmos y Programación de la UNIMET",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-python.python",
+        "njpwerner.autodocstring",
+        "dongli.python-preview",
+        "fooxly.quick-terminal",
+        "2gua.rainbow-brackets",
+        "formulahendry.code-runner",
+        "yzhang.markdown-all-in-one",
+        "ms-vsliveshare.vsliveshare-pack",
+        "streetsidesoftware.code-spell-checker",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "exodiusstudios.comment-anchors",
+        "streetsidesoftware.code-spell-checker-spanish"
+    ]
+}
