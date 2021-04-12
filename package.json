@@ -19,7 +19,7 @@
         "ms-vsliveshare.vsliveshare-pack",
         "eamodio.gitlens",
         "esbenp.prettier-vscode",
-        "exodiusstudios.comment-anchors",
+        "exodiusstudios.comment-anchors"
     ],
     "publisher": "unimet",
     "repository": "https://github.com/luiseduardobello/UNIMET-Extension-Pack",
