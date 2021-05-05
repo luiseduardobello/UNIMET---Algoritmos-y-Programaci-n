@@ -2,7 +2,7 @@
     "name": "unimet-algorimos-y-programacion",
     "displayName": "UNIMET - Algoritmos y Programación",
     "description": "Paquete de extensiones para la materia Algoritmos y Programación de la UNIMET",
-    "version": "0.1.0",
+    "version": "2.0.0",
     "engines": {
         "vscode": "^1.49.0"
     },
