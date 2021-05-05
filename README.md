@@ -1,12 +1,12 @@
 # UNIMET - Algoritmos y Programación
 
-<img src="https://pmivenezuela.org/wp-content/uploads/2019/08/UNIMET.png" width="60%">
+<img src="https://fotos.unimet.edu.ve/var/albums/Fotos-institucionales/Logo%20unimet.png?m=1391110567" width="60%">
 
 Aqui encontraras un paquete de extensiones que te ayudara a lo largo de la materia.
 
 ## Contribuye
 
-Puedes abrir un [issue](https://github.com/luiseduardobello/UNIMET-Extensions-Pack/issues) y si tienes la solución al problema, puedes contribuir directamente!
+Puedes abrir un [issue](https://github.com/luiseduardobello/UNIMET-Extensions-Pack/issues) s/i tienes la solución al problema, puedes contribuir directamente!
 
 ## Autor
 
